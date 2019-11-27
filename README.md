@@ -1,5 +1,4 @@
-# restful_node_mysql
-**Servidor RESTFul Local com Node.Js e MySQL**
+# Servidor RESTFul Local com Node.Js e MySQL
 
 Instalação e execução
 
